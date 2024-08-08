@@ -1,0 +1,18 @@
+.lista-suspensa label{
+    display: block;    /*Qebrar a linha para separar elementos*/
+    margin-bottom: 8px; 
+    font-size: 20px;
+
+}
+
+.lista-suspensa select {
+
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);  /* Adiciona efeito de sombra*/
+    width: 100%;
+    border: none;  /*Retira as bordas da caixa de texto*/
+    font-size: 20px;
+    padding: 10px;    /*Adiciona um padding de 10px cima/baixo e esquerda/direita*/
+    box-sizing: border-box; /*Evita que o imput ultrapasse os limites do width de 100%*/
+
+}
