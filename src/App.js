@@ -6,11 +6,11 @@ import Time from "./componentes/Time";
 function App() { 
   const times = [
     { nome: 'Fogo', corPrimaria: '#ff8a29', corSecundaria: '#d9f7e9' },
-    { nome: 'Ãgua', corPrimaria: '#82cffa', corSecundaria: '#e8f8ff' },
+    { nome: 'Água', corPrimaria: '#82cffa', corSecundaria: '#e8f8ff' },
     { nome: 'Grama', corPrimaria: '#a6d157', corSecundaria: '#fde8e2' },
-    { nome: 'ElÃ©trico', corPrimaria: '#e06b69', corSecundaria: '#fde7e8' },
-    { nome: 'PsÃ­quico', corPrimaria: '#db6ebf', corSecundaria: '#fae9f5' },
-    { nome: 'DragÃ£o', corPrimaria: '#ffba05', corSecundaria: '#fff5d9' },
+    { nome: 'Elétrico', corPrimaria: '#e06b69', corSecundaria: '#fde7e8' },
+    { nome: 'Psíquico', corPrimaria: '#db6ebf', corSecundaria: '#fae9f5' },
+    { nome: 'Dragão', corPrimaria: '#ffba05', corSecundaria: '#fff5d9' },
     { nome: 'Fantasma', corPrimaria: '#57c278', corSecundaria: '#ffeedf' },
   ];
 
